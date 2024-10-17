@@ -1,4 +1,23 @@
 = Projektantrag
-//ifndef::imagesdir[:imagesdir: images]
 
-//image::img.png[]
+== Digitale Meldestelle für städtische Mängel
+=== Projektbeschreibung
+
+In zahlreichen Städten und Gemeinden gibt es eine Lücke zwischen Bürgern und den öffentlichen Verwaltungen bei der effektiven Meldung und Lösung kleiner lokaler Probleme. Die Plattform soll es ihnen ermöglichen, lokale Missstände (zB. beschädigte Straßen, Vandalismus, Müllablagerungen, defekte Straßenlaternen etc.) schnell und einfach an die zuständigen Behörden zu melden. Bürger können über die Plattform das Problem beschreiben, Fotos hochladen, den Standort angeben und den Bearbeitungsstatus verfolgen. Dadurch soll die Kommunikation zwischen Bewohner und Stadtverwaltung gefördert und die Probleme schneller erkannt und gelöst werden.
+
+
+// === Projektziele
+
+//- verbesserte Infrastruktur, reduzierte Vandalismusschäden, saubere Umwelt etc.
+//- verbesserte Lebensqualität der Bürger:innen der Stadt
+//- gestärkte Kommunikation zwischen Gemeinden und Bürger:innen
+
+
+=== Projektnutzen
+
+Das Projekt verbessert die Lebensqualität der Stadtbewohner. Durch schnelle Meldungen und direkte Weiterleitungen an die zuständigen Stellen werden Infrastruktur, Sicherheit und Umwelt optimiert, während Bürger aktiv in die Stadtgestaltung eingebunden werden.
+
+
+=== Konsequenzen der Nichtdurchführung
+
+Die Lebensqualität und generelle Zufriedenheit der Stadtbewoher ist niedriger, da Probleme wie Vandalismus, schlechte Infrastruktur etc. langsamer behoben werden. Sie haben keine Plattform, worauf sie die Defekte melden und aktiv zu einer Verbesserung beitragen können.
