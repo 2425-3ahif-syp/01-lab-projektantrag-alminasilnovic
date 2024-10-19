@@ -14,8 +14,8 @@ Das Projekt verbessert die Lebensqualität der Stadtbewohner. Durch schnelle Mel
 
 === Konsequenzen bei Nichtdurchführung
 
-Die Lebensqualität und generelle Zufriedenheit der Stadtbewoher ist niedriger, da Probleme wie Vandalismus, schlechte Infrastruktur etc. langsamer behoben werden. Sie haben keine Plattform, worauf sie die Defekte melden und aktiv zu einer Verbesserung beitragen können.
+Die Lebensqualität und generelle Zufriedenheit der Stadtbewohner ist niedriger, da Probleme wie Vandalismus, schlechte Infrastruktur etc. langsamer behoben werden. Sie haben keine Plattform, worauf sie die Defekte melden und aktiv zu einer Verbesserung beitragen können.
 
 === Ressourcen
 
-Für die erfolgreiche Umsetzung des Projekts wird ein kleines Entwicklerteam benötigt, bestehend aus 2 - 4 Softwareentwicklern. Dabei soll einer die Rolle des Projektleiters übernehmen. Der zeitliche Aufwand für die Umsetzung des Projekts umfasst die Entwicklungsphase von etwa 3 bis 5 Monaten. 
+Für die erfolgreiche Umsetzung des Projekts wird ein kleines Entwicklerteam benötigt, bestehend aus 2 bis 4 Softwareentwicklern. Dabei soll einer die Rolle des Projektleiters übernehmen. Der zeitliche Aufwand für die Umsetzung des Projekts umfasst eine Entwicklungsphase von etwa 3 bis 5 Monaten. 
